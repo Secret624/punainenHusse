@@ -6625,7 +6625,7 @@
     (property "Datasheet" "~" (at 38.1 55.88 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (property "LCSC#" "C376859" (at 38.1 55.88 0)
+    (property "LCSC#" "C94121" (at 38.1 55.88 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (pin "1" (uuid ed6e125a-2fd9-4c59-9105-8af5cd1d2a86))

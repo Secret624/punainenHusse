@@ -1,4 +1,4 @@
-21576228482114783
+21589830883835246
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -524,6 +524,13 @@ Matias ALPS keyswitch ISO enter
 0
 2
 2
+Button_Switch_SMD
+G-Switch-MK-12C02-G020
+
+
+0
+7
+3
 Button_Switch_SMD
 Nidec_Copal_SH-7010A
 4-bit rotary coded switch, J-hook, https://www.nidec-copal-electronics.com/e/catalog/switch/sh-7000.pdf
@@ -6545,6 +6552,13 @@ three-pin M8
 5
 4
 Connector_Audio
+CONN06_JACK_ACJS_15P75X25_AMP
+
+ACJS-MHOM 
+0
+6
+6
+Connector_Audio
 Jack_3.5mm_CUI_SJ-3523-SMT_Horizontal
 3.5 mm, Stereo, Right Angle, Surface Mount (SMT), Audio Jack Connector (https://www.cui.com/product/resource/sj-352x-smt-series.pdf)
 3.5mm audio cui horizontal jack stereo
@@ -7986,6 +8000,13 @@ NMJ6HCD2
 0
 6
 6
+Connector_Audio
+PJ-612
+
+
+0
+2
+2
 Connector_Audio
 Plug_3.5mm_CUI_SP-3541
 4 contacts, 3.5mm audio plug, https://www.cuidevices.com/product/resource/pdf/sp-3541.pdf
@@ -53339,6 +53360,13 @@ One digit LED 7 segment SA39-11 SC39-11 SA39-12 SC39-12
 0
 10
 10
+Enclosure
+1590B
+
+
+0
+0
+0
 Ferrite_THT
 LairdTech_28C0236-0JW-10
 Ferrite, vertical, LairdTech 28C0236-0JW-10, https://assets.lairdtech.com/home/brandworld/files/28C0236-0JW-10.pdf, JW Miller core https://www.bourns.com/products/magnetic-products/j.w.-miller-through-hole-ferrite-beads-emi-filters
@@ -72842,6 +72870,13 @@ EQFP QFP
 259
 145
 Package_QFP
+ESP32-S3-WROOM-1
+
+
+0
+49
+41
+Package_QFP
 HTQFP-64-1EP_10x10mm_P0.5mm_EP8x8mm
 64-Lead Plastic Thin Quad Flatpack (PT) - 10x10x1 mm Body, 2.00 mm Footprint [HTQFP] thermal pad
 HTQFP-64 Pitch 0.5 
@@ -82949,6 +82984,20 @@ rotary encoder
 0
 7
 6
+SamacSys_Parts
+NE555DR
+D (R-PDSO-G8)
+Integrated Circuit
+0
+8
+8
+SamacSys_Parts
+USB1061GFLA
+USB1061-GF-L-A-2
+Connector
+0
+6
+6
 Sensor
 Aosong_DHT11_5.5x12.0_P2.54mm
 Temperature and humidity module, http://akizukidenshi.com/download/ds/aosong/DHT11.pdf
@@ -88191,6 +88240,13 @@ REDCUBE THR with internal through-hole thread WP-THRSH (https://www.we-online.de
 screw terminal thread redcube thr power connector
 0
 18
+1
+TestPoint
+Test point 2.5x1.5
+
+
+0
+1
 1
 TestPoint
 TestPoint_2Pads_Pitch2.54mm_Drill0.8mm
